@@ -43,6 +43,12 @@ This repository contains a Python implementation of the classic 2048 game using 
 
 - Use the arrow keys (Up, Down, Left, Right) to move the tiles in the corresponding direction.
 
+## Future Features
+
+- Add scoring system to track player scores.
+- Implement a leaderboard feature to display high scores.
+- Add options for customizing game settings (board size, winning tile number, etc.).
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
