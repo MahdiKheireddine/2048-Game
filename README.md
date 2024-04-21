@@ -10,7 +10,6 @@ This repository contains a Python implementation of the classic 2048 game using 
 
 - Classic 2048 gameplay
 - Colorful and intuitive interface
-- Score tracking
 - Smooth animations
 - Support for keyboard controls
 
@@ -19,16 +18,10 @@ This repository contains a Python implementation of the classic 2048 game using 
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/2048-game.git
+    git clone https://github.com/MahdiKheireddine/2048-Game
     ```
 
-2. Navigate to the project directory:
-
-    ```
-    cd 2048-game
-    ```
-
-3. Install the required dependencies using pip:
+2. Install the required dependencies using pip:
 
     ```
     pip install -r requirements.txt
